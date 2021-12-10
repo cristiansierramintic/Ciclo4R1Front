@@ -1,8 +1,8 @@
 # Ciclo4R1Front Evidencias
-Refistro usuarios
+Registro usuarios (Evidencia alertas por campos vacíos )
 ![ScreenShot](https://github.com/cristiansierramintic/Ciclo4R1Front/blob/main/evidencias/Registro.png)
 
-Login
+Login (Alertas por fallar en credenciales login )
 ![ScreenShot](https://github.com/cristiansierramintic/Ciclo4R1Front/blob/main/evidencias/Login.png)
 
 Bienvenida
